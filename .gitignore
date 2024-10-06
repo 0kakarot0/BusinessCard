@@ -1,0 +1,27 @@
+# Android specific
+*.iml
+.gradle/
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build/
+app/build/
+
+# Gradle specific
+.gradle
+/build/
+*/build/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Android Studio specific
+.idea/
+*.iml
+out/
+*.apk
+*.ap_
